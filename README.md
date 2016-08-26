@@ -11,3 +11,5 @@
 [滴滴WebApp实践经验分享](https://github.com/DDFE/vue-blog/issues/4) by [黄轶](https://github.com/ustbhuangyi)
 
 [公司级组件库以及MIS系统的技术实践](https://github.com/DDFE/DDFE-blog/issues/5) by [王静](https://github.com/wangjingbetty)
+
+[指数级增长背后，滴滴出行业务系统的架构升级](https://github.com/DDFE/DDFE-blog/issues/6) by [杜欢](https://github.com/huandu)
