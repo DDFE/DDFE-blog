@@ -1,9 +1,9 @@
 # 滴滴公共前端
-![enter image description here](http://static.galileo.xiaojukeji.com/static/tms/shield/ddfe.jpg)
+![滴滴公共前端](http://static.galileo.xiaojukeji.com/static/tms/shield/ddfe.jpg)
 
 ## 招聘职位
 
-高级（资深）web前端工程师
+高级（资深）web前端工程师
 
 ## Head Count
 社招：5人
@@ -29,7 +29,7 @@ shield-fe@didichuxing.com
 
 ### webapp方向
 
- 1. 1.前端基础知识扎实，熟练掌握原生 JS、CSS、HTML。
+ 1. 前端基础知识扎实，熟练掌握原生 JS、CSS、HTML。
  2. 至少熟练掌握一个前端 MVVM 框架，Vue 尤佳。
  3. 至少 2 年前端开发经验，1 年移动端开发经验（2 年内的能力突出者可略过此条）。
  4. 拥有良好的面向对象编程思想：能够使用 JS 编写面向对象的代码。
