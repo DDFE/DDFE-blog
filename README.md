@@ -1,5 +1,9 @@
 # DDEE-blog
 
+## 我们需要你
+
+[滴滴公共前端团队招聘JD](https://github.com/DDFE/DDFE-blog/blob/master/JD.md)
+
 ## vue系列
 
 [【译】使用VueJS 2.0开发一款app](https://github.com/DDFE/vue-blog/issues/1) by [黄轶](https://github.com/ustbhuangyi)
