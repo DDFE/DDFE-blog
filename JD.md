@@ -28,10 +28,8 @@ shield-fe@didichuxing.com
 ### MIS方向
  1. 参与公司级 mis 组件库开发（vue、react、angular）。
  2. 参与公司 mis 系统开发。
+
 ## 基本要求
-
-### webapp方向
-
  1. 前端基础知识扎实，熟练掌握原生 JS、CSS、HTML。
  2. 至少熟练掌握一个前端 MVVM 框架，Vue、Angular、React等。
  3. 至少 2 年前端开发经验（2 年内的能力突出者可略过此条）。
