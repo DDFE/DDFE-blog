@@ -8,6 +8,8 @@
 
 [【译】使用VueJS 2.0开发一款app](https://github.com/DDFE/vue-blog/issues/1) by [黄轶](https://github.com/ustbhuangyi)
 
+[Vue 源码解析：深入响应式原理](https://github.com/DDFE/vue-blog/issues/7) by [黄轶](https://github.com/ustbhuangyi)
+
 [我们团队的力作——《Vue.js权威指南》](http://item.jd.com/12028224.html)
 
 ## 滴滴公共团队
