@@ -6,6 +6,8 @@
 
 ## vue系列
 
+[Vuex 2.0 源码分析](https://github.com/DDFE/vue-blog/issues/8) by [黄轶](https://github.com/ustbhuangyi)
+
 [【译】使用VueJS 2.0开发一款app](https://github.com/DDFE/vue-blog/issues/1) by [黄轶](https://github.com/ustbhuangyi)
 
 [Vue 源码解析：深入响应式原理](https://github.com/DDFE/vue-blog/issues/7) by [黄轶](https://github.com/ustbhuangyi)
