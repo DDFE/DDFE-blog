@@ -5,6 +5,9 @@
 [滴滴公共前端团队招聘JD](https://github.com/DDFE/DDFE-blog/blob/master/JD.md)
 
 ## vue系列
+
+[vue-cli#2.0 webpack 配置分析](https://github.com/DDFE/DDFE-blog/issues/10) by [王宏宇](https://github.com/neurotoxinvx)
+
 [vue-router源码分析-整体流程](https://github.com/DDFE/DDFE-blog/issues/9) by [苗典](https://github.com/dolymood)
 
 [Vuex 2.0 源码分析](https://github.com/DDFE/vue-blog/issues/8) by [黄轶](https://github.com/ustbhuangyi)
