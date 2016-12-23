@@ -6,6 +6,8 @@
 
 ## vue系列
 
+[vue-router 源码分析-history](https://github.com/DDFE/DDFE-blog/issues/11) by [苗典](https://github.com/dolymood)
+
 [vue-cli#2.0 webpack 配置分析](https://github.com/DDFE/DDFE-blog/issues/10) by [王宏宇](https://github.com/neurotoxinvx)
 
 [vue-router源码分析-整体流程](https://github.com/DDFE/DDFE-blog/issues/9) by [苗典](https://github.com/dolymood)
