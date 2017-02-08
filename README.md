@@ -2,7 +2,7 @@
 
 ## 我们需要你
 
-[滴滴公共前端团队招聘JD](https://github.com/DDFE/DDFE-blog/blob/master/JD.md)
+[滴滴平台技术部前端招聘](https://github.com/DDFE/DDFE-blog/blob/master/JD.md)
 
 ## vue系列
 
