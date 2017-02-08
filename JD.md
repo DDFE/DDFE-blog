@@ -20,11 +20,26 @@ shield-fe@didichuxing.com
 
 ## 工作内容
 
-### webapp 方向
-1. 公共 webapp 及解决方案
-2. 业务 webapp 
-3. 小程序
-4. 开放平台
+### WebApp 方向
+
+#### 公共 WebApp 及解决方案
+1. WebApp主页及相关架构
+2. 侧边栏等非业务相关产品功能
+3. 魔方组件、Passport SDK等组件
+4. 统一支付、统一绑卡等统一功能
+
+#### 业务 WebApp 
+1. 专快车、Unione 等业务 WebApp 的发单及后续流程操作
+2. 接送机 WebApp
+3. 其他与业务相关的 WebApp 页面
+
+#### 小程序
+1. 滴滴出行小程序
+2. 小程序架构与组件
+
+#### 开放平台
+1. 滴滴出行开放平台SDK对接支持
+2. SDK Bridge及其他信息维护
 
 ## 基本要求
  1. 前端基础知识扎实，熟练掌握原生 JS、CSS、HTML。
