@@ -23,7 +23,7 @@ shield-fe@didichuxing.com
 ### WebApp 方向
 
 #### 公共 WebApp 及解决方案
-1. WebApp主页及相关架构
+1. WebApp 主页及相关架构
 2. 侧边栏等非业务相关产品功能
 3. 魔方组件、Passport SDK等组件
 4. 统一支付、统一绑卡等统一功能
@@ -38,8 +38,8 @@ shield-fe@didichuxing.com
 2. 小程序架构与组件
 
 #### 开放平台
-1. 滴滴出行开放平台SDK对接支持
-2. SDK Bridge及其他信息维护
+1. 滴滴出行开放平台 SDK 对接支持
+2. SDK Bridge 及其他信息维护
 
 ## 基本要求
  1. 前端基础知识扎实，熟练掌握原生 JS、CSS、HTML。
