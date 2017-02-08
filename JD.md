@@ -1,12 +1,12 @@
-# 滴滴公共前端
-![滴滴公共前端](http://static.galileo.xiaojukeji.com/static/tms/shield/ddfe.jpg)
+# 滴滴平台技术部前端招聘
+![滴滴前端](http://static.galileo.xiaojukeji.com/static/tms/shield/ddfe.jpg)
 
 ## 招聘职位
 
 高级（资深）web前端工程师
 
 ## Head Count
-社招：0（暂无）
+社招：6
 
 应届：0
 
@@ -20,14 +20,11 @@ shield-fe@didichuxing.com
 
 ## 工作内容
 
-### webapp方向
- 1. 参与各种公司级别的组件库、通用 JS SDK 的维护和开发。
- 2. 参与 webapp 打车页面的开发。
- 3. 参与端内 h5 页面的开发。
-
-### MIS方向
- 1. 参与公司级 mis 组件库开发（vue、react、angular）。
- 2. 参与公司 mis 系统开发。
+### webapp 方向
+1. 公共 webapp 及解决方案
+2. 业务 webapp 
+3. 小程序
+4. 开放平台
 
 ## 基本要求
  1. 前端基础知识扎实，熟练掌握原生 JS、CSS、HTML。
