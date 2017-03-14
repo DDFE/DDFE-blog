@@ -5,6 +5,7 @@
 [滴滴平台技术部前端招聘](https://github.com/DDFE/DDFE-blog/blob/master/JD.md)
 
 ## vue系列
+[滴滴 webapp 5.0 Vue 2.0 重构经验分享](https://github.com/DDFE/vue-blog/issues/12) by [黄轶](https://github.com/ustbhuangyi)
 
 [vue-router 源码分析-history](https://github.com/DDFE/DDFE-blog/issues/11) by [苗典](https://github.com/dolymood)
 
