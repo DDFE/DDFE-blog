@@ -27,7 +27,7 @@
 
 [[webpack]源码解读：命令行输入webpack的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12) by [钟宇飞](https://github.com/zyf394)
 
-## 滴滴公共团队
+## 滴滴工程实践
 
 [如何打造公司级公共前端团队](https://github.com/DDFE/vue-blog/issues/2) by [张耀春](https://github.com/zhangyaochun)
 
