@@ -1,10 +1,10 @@
-# DDEE-blog
+# DDFE-blog
 
 ## 我们需要你
 
 [滴滴平台技术部前端招聘](https://github.com/DDFE/DDFE-blog/blob/master/JD.md)
 
-## vue系列】
+## vue系列
 [当 better-scroll 遇见 Vue](https://github.com/DDFE/DDFE-blog/issues/15)
 
 [前端国际化之Vue-i18n源码分析](https://github.com/DDFE/vue-blog/issues/14) by [肖磊](https://github.com/CommanderXL)
