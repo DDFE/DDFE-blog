@@ -7,7 +7,7 @@
 ## vue系列
 [Vue的virtual-dom实现简析](https://github.com/DDFE/DDFE-blog/issues/18) by [肖磊](https://github.com/CommanderXL)
 
-[Vue的数据依赖实现原理简析](https://github.com/DDFE/DDFE-blog/issues/17) ) by [肖磊](https://github.com/CommanderXL)
+[Vue的数据依赖实现原理简析](https://github.com/DDFE/DDFE-blog/issues/17) by [肖磊](https://github.com/CommanderXL)
 
 [当 better-scroll 遇见 Vue](https://github.com/DDFE/DDFE-blog/issues/15) by [黄轶](https://github.com/ustbhuangyi)
 
