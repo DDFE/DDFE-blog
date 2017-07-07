@@ -5,9 +5,9 @@
 [滴滴平台技术部前端招聘](https://github.com/DDFE/DDFE-blog/blob/master/JD.md)
 
 ## vue系列
-[Vue2.0 的 virtual-dom 实现简析](https://github.com/DDFE/DDFE-blog/issues/18) by [肖磊](https://github.com/CommanderXL)
+[Vue 2.0 的 virtual-dom 实现简析](https://github.com/DDFE/DDFE-blog/issues/18) by [肖磊](https://github.com/CommanderXL)
 
-[Vue2.0 的数据依赖实现原理简析](https://github.com/DDFE/DDFE-blog/issues/17) by [肖磊](https://github.com/CommanderXL)
+[Vue 2.0 的数据依赖实现原理简析](https://github.com/DDFE/DDFE-blog/issues/17) by [肖磊](https://github.com/CommanderXL)
 
 [当 better-scroll 遇见 Vue](https://github.com/DDFE/DDFE-blog/issues/15) by [黄轶](https://github.com/ustbhuangyi)
 
@@ -25,7 +25,7 @@
 
 [【译】使用VueJS 2.0开发一款app](https://github.com/DDFE/vue-blog/issues/1) by [黄轶](https://github.com/ustbhuangyi)
 
-[Vue1.0 源码解析：深入响应式原理](https://github.com/DDFE/vue-blog/issues/7) by [黄轶](https://github.com/ustbhuangyi)
+[Vue 1.0 源码解析：深入响应式原理](https://github.com/DDFE/vue-blog/issues/7) by [黄轶](https://github.com/ustbhuangyi)
 
 ## webpack系列
 
