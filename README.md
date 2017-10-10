@@ -33,9 +33,9 @@
 
 ## webpack系列
 
-[[webpack]源码解读：命令行输入webpack的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12) by [钟宇飞](https://github.com/zyf394)
-
 [webpack 应用编译优化之路](https://github.com/DDFE/DDFE-blog/issues/23) by [苗典](https://github.com/dolymood)
+
+[[webpack]源码解读：命令行输入webpack的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12) by [钟宇飞](https://github.com/zyf394)
 
 ## 滴滴工程实践
 
