@@ -5,6 +5,9 @@
 [滴滴平台技术部前端招聘](https://github.com/DDFE/DDFE-blog/blob/master/JD.md)
 
 ## vue系列
+
+[Vue.js 升级踩坑小记](https://github.com/DDFE/DDFE-blog/issues/24) by [黄轶](https://github.com/ustbhuangyi)
+
 [Vue 2.0 的 virtual-dom 实现简析](https://github.com/DDFE/DDFE-blog/issues/18) by [肖磊](https://github.com/CommanderXL)
 
 [Vue 2.0 的数据依赖实现原理简析](https://github.com/DDFE/DDFE-blog/issues/17) by [肖磊](https://github.com/CommanderXL)
