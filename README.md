@@ -6,6 +6,8 @@
 
 ## vue系列
 
+[vue-music 音乐 App 之 cube-ui 重构](https://github.com/DDFE/DDFE-blog/issues/26) by [黄轶](https://github.com/ustbhuangyi)
+
 [Vue.js 升级踩坑小记](https://github.com/DDFE/DDFE-blog/issues/24) by [黄轶](https://github.com/ustbhuangyi)
 
 [Vue 2.0 的 virtual-dom 实现简析](https://github.com/DDFE/DDFE-blog/issues/18) by [肖磊](https://github.com/CommanderXL)
