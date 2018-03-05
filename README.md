@@ -38,6 +38,16 @@
 
 [BetterScroll：在移动端滚动场景的应用](https://github.com/DDFE/DDFE-blog/issues/22) by [付楠](https://github.com/AmyFoxFN)
 
+## Node.js 系列
+
+[Node.js Readable Stream的实现简析](https://github.com/DDFE/DDFE-blog/issues/27) by [肖磊](https://github.com/CommanderXL)
+ 
+[Node.js Writable Stream的实现简析](https://github.com/DDFE/DDFE-blog/issues/28) by [肖磊](https://github.com/CommanderXL)
+
+## 自动化测试系列
+
+[AVA测试框架内部的Promise异步流程控制模型](https://github.com/DDFE/DDFE-blog/issues/29) by [肖磊](https://github.com/CommanderXL)
+
 ## webpack系列
 
 [webpack 应用编译优化之路](https://github.com/DDFE/DDFE-blog/issues/23) by [苗典](https://github.com/dolymood)
