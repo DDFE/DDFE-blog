@@ -10,6 +10,8 @@
 
 ## vue系列
 
+[Vue.js 技术揭秘](https://github.com/ustbhuangyi/vue-analysis)  by [黄轶](https://github.com/ustbhuangyi)
+
 [vue-music 音乐 App 之 cube-ui 重构](https://github.com/DDFE/DDFE-blog/issues/26) by [黄轶](https://github.com/ustbhuangyi)
 
 [Vue.js 升级踩坑小记](https://github.com/DDFE/DDFE-blog/issues/24) by [黄轶](https://github.com/ustbhuangyi)
