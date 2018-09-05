@@ -10,6 +10,8 @@
 
 ## vue系列
 
+[Vue-cli@3.0 插件系统简析](https://github.com/DDFE/DDFE-blog/issues/33) by [肖磊](https://github.com/CommanderXL)
+
 [Vue.js 技术揭秘](https://github.com/ustbhuangyi/vue-analysis)  by [黄轶](https://github.com/ustbhuangyi)
 
 [vue-music 音乐 App 之 cube-ui 重构](https://github.com/DDFE/DDFE-blog/issues/26) by [黄轶](https://github.com/ustbhuangyi)
