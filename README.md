@@ -60,6 +60,18 @@
 
 ## webpack系列
 
+[webpack系列之四loader详解3](https://github.com/DDFE/DDFE-blog/issues/41) by [肖磊](https://github.com/CommanderXL)
+
+[webpack系列之四loader详解2](https://github.com/DDFE/DDFE-blog/issues/40) by [肖磊](https://github.com/CommanderXL)
+
+[webpack系列之四loader详解1](https://github.com/DDFE/DDFE-blog/issues/39) by [肖磊](https://github.com/CommanderXL)
+
+[webpack系列之三resolve](https://github.com/DDFE/DDFE-blog/issues/38) by [崔静](https://github.com/cuijing1031)
+
+[webpack系列之二Tapable](https://github.com/DDFE/DDFE-blog/issues/37) by [崔静](https://github.com/cuijing1031)
+
+[webpack系列之一总览](https://github.com/DDFE/DDFE-blog/issues/36) by [崔静](https://github.com/cuijing1031)
+
 [webpack 应用编译优化之路](https://github.com/DDFE/DDFE-blog/issues/23) by [苗典](https://github.com/dolymood)
 
 [[webpack]源码解读：命令行输入webpack的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12) by [钟宇飞](https://github.com/zyf394)
