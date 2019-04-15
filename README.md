@@ -50,6 +50,8 @@
 
 ## Node.js 系列
 
+[你真的了解npm-scripts吗？](https://github.com/DDFE/DDFE-blog/issues/43) by [冯伟尧](https://github.com/tank0317)
+
 [Node.js Readable Stream的实现简析](https://github.com/DDFE/DDFE-blog/issues/27) by [肖磊](https://github.com/CommanderXL)
  
 [Node.js Writable Stream的实现简析](https://github.com/DDFE/DDFE-blog/issues/28) by [肖磊](https://github.com/CommanderXL)
