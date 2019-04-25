@@ -62,6 +62,8 @@
 
 ## webpack系列
 
+[webpack系列之五module生成1](https://github.com/DDFE/DDFE-blog/issues/44) by [崔静](https://github.com/cuijing1031)
+
 [webpack系列之四loader详解3](https://github.com/DDFE/DDFE-blog/issues/41) by [肖磊](https://github.com/CommanderXL)
 
 [webpack系列之四loader详解2](https://github.com/DDFE/DDFE-blog/issues/40) by [肖磊](https://github.com/CommanderXL)
