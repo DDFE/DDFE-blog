@@ -62,6 +62,8 @@
 
 ## webpack系列
 
+[webpack系列之六graph图生成](https://github.com/DDFE/DDFE-blog/issues/46) by [肖磊](https://github.com/CommanderXL)
+
 [webpack系列之五module生成2](https://github.com/DDFE/DDFE-blog/issues/45) by [崔静](https://github.com/cuijing1031)
 
 [webpack系列之五module生成1](https://github.com/DDFE/DDFE-blog/issues/44) by [崔静](https://github.com/cuijing1031)
