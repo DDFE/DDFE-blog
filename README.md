@@ -62,6 +62,10 @@
 
 ## webpack系列
 
+[webpack系列之七-附dependencyTemplates依赖模板](https://github.com/DDFE/DDFE-blog/issues/49) by [崔静](https://github.com/cuijing1031) and [肖磊](https://github.com/CommanderXL)
+
+[webpack系列之七-文件生成](https://github.com/DDFE/DDFE-blog/issues/48) by [崔静](https://github.com/cuijing1031) and [肖磊](https://github.com/CommanderXL)
+
 [webpack系列之六chunk图生成](https://github.com/DDFE/DDFE-blog/issues/46) by [肖磊](https://github.com/CommanderXL)
 
 [webpack系列之五module生成2](https://github.com/DDFE/DDFE-blog/issues/45) by [崔静](https://github.com/cuijing1031)
