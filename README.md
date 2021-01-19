@@ -1,9 +1,5 @@
 # DDFE-blog
 
-## 我们需要你
-
-[滴滴平台技术部前端招聘](https://github.com/DDFE/DDFE-blog/blob/master/JD.md)
-
 ## cube-ui 系列
 
 [cube-ui技术内幕](https://github.com/DDFE/DDFE-blog/issues/31)
