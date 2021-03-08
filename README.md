@@ -84,6 +84,18 @@
 
 [[webpack]源码解读：命令行输入webpack的时候都发生了什么？](https://github.com/DDFE/DDFE-blog/issues/12) by [钟宇飞](https://github.com/zyf394)
 
+[webpack系列之一总览](https://github.com/DDFE/DDFE-blog/issues/36) by [崔静](https://github.com/cuijing1031)
+
+[webpack系列之二Tapable](https://github.com/DDFE/DDFE-blog/issues/37) by [崔静](https://github.com/cuijing1031)
+
+[webpack系列之三resolve](https://github.com/DDFE/DDFE-blog/issues/38) by [崔静](https://github.com/cuijing1031)
+
+[webpack系列之四loader详解1](https://github.com/DDFE/DDFE-blog/issues/39) by [肖磊](https://github.com/CommanderXL)
+
+[webpack系列之四loader详解2](https://github.com/DDFE/DDFE-blog/issues/40) by [肖磊](https://github.com/CommanderXL)
+
+[webpack系列之四loader详解3](https://github.com/DDFE/DDFE-blog/issues/41) by [肖磊](https://github.com/CommanderXL)
+
 ## 滴滴工程实践
 
 [滴滴WebApp实践经验分享](https://github.com/DDFE/vue-blog/issues/4) by [黄轶](https://github.com/ustbhuangyi)
